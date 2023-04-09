@@ -1,2 +1,4 @@
 # the-dominik-github-projects
-personal projects
+this github is designed for random personal projects
+
+
