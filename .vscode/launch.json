@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/domin/Desktop/uni/Semester 2/Programmierparadigmen/C++/numbers",
-      "program": "c:/Users/domin/Desktop/uni/Semester 2/Programmierparadigmen/C++/numbers/build/Debug/outDebug",
+      "program": "${workspaceFolder}/output/numbers.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
